@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can email me at raysul0326@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1KdgabQ-umIBNiVpa-EB-I8Z4dTwdWQXQ/view?usp=drive_link) for more details about work experience.
 
-- 🎯 Portfolio website: [Portfolio](https://varadbhogayata.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://raysul05.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: [Let's get in touch!][Linkedin]
 
