@@ -3,8 +3,8 @@
 
 <!-- <h3>আসসালামু আলাইকুম (Assalamu Alaikum), I am Md Raysul Islam 👋 @raysul05</h3> -->
 ### আসসালামু আলাইকুম (Assalamu Alaikum), I am Md Raysul Islam 👋 @raysul05
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varadbhogayata/)](https://www.linkedin.com/in/raysul5/)
-[![Gmail Badge](https://img.shields.io/badge/-vbhogayata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vbhogayata@gmail.com)](mailto:raysul0326@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Raysul5-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raysul5/)]
+[![Gmail Badge](https://img.shields.io/badge/-raysul0326@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raysul0326@gmail.com)] 
 
 - 🎯 Portfolio website: [Portfolio]5/)
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -37,7 +37,7 @@
 ---
 
 ### Things I love:
-- Java <img src="https://tenor.com/btC02.gif" width="30">
+- Java <img src="https://tenor.com/btC02.gif" width="50">
 - Football <img src="https://tenor.com/nvhPIVtucdq.gif" width="30">
 - Anime <img src="https://tenor.com/bjHap.gif" width="30">
 - Eating <img src="https://tenor.com/bKVfZ.gif" width="30">
