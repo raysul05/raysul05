@@ -16,8 +16,9 @@
 
 - 🎯 Portfolio website: [Portfolio](https://raysul05.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][Linkedin]
-
+-  📬 How to reach me: [Let's get in touch!][linkedin]
+-  <!--[website]: -->
+[linkedin]: https://www.linkedin.com/in/varadbhogayata
 ###  🛠 &nbsp; Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -51,5 +52,4 @@
 - Eating <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1ucnRweDdoaGpxcWdyODZ4djRsY3h3MmJuYjJxdm9lc3UxMW5wdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4x1ZL36xWCf6/giphy.gif" width="35">
 
 <h3 align="center">Show some &nbsp;❤️&nbsp;</h3>
- <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/raysul5/
+
